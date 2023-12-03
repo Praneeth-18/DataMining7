@@ -1,6 +1,6 @@
 # Dimensionality Reduction Techniques
 
-## [Databricks link](https://dbc-e2cef770-b7e5.cloud.databricks.com/?o=6326445786647943#notebook/3457406979523618)
+ [Databricks link](https://dbc-e2cef770-b7e5.cloud.databricks.com/?o=6326445786647943#notebook/3457406979523618)
 
 ## Introduction
 This document summarizes various dimensionality reduction techniques explored, focusing on their key aspects and typical uses in data analysis. Dimensionality reduction is crucial in simplifying datasets, enhancing visualizations, and improving model performance.
